@@ -1,0 +1,22 @@
+a = input("Enter number of the month:")
+month = ['Janauary',
+		'February',
+		'March',
+		'April',
+		'May',
+		'June',
+		'July',
+		'August',
+		'September',
+		'October',
+		'November',
+		'December']
+
+if a > 0 or a <= len(month):
+    print("Month name is ", month[a+1])
+
+else:
+	print("Given value is invalid")
+	print("Give value in between 1 to 12")
+
+ 
