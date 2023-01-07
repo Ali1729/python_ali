@@ -1,4 +1,6 @@
-a = input("Enter number of the month:")
+print ("name in if1",__name__)
+import if_2 as a
+a = 2
 month = ['Janauary',
 		'February',
 		'March',
@@ -19,4 +21,3 @@ else:
 	print("Given value is invalid")
 	print("Give value in between 1 to 12")
 
- 
