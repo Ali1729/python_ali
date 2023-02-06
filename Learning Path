@@ -6,6 +6,11 @@ Setting up your IDE
 
 Print(“hello world”)
 
+Executing Scripts (Via IDE)
+
+Executing Scripts (Via CLI)
+
+
 Syntax
 
 Variables
@@ -27,10 +32,6 @@ Data Structure: Sets
 Commenting
 
 Pseudocode
-
-Executing Scripts (Via IDE)
-
-Executing Scripts (Via CLI)
 
 Casting
 

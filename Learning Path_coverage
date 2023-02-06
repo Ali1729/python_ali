@@ -129,6 +129,21 @@ Data Structure: DataFrame
 
 Libraries: Matplotlib
 
+Django -- Test Data Generation 
+Pyspark -- 
+filter(id =1)
+group
+.execute("select * from emp where id = 1")
+Python Project.
+
+Flask --framework
+Bottle
+csv
+json
+excel
+
+
+
 ==========Advanced:=============
 
 printing with f 

@@ -1,0 +1,34 @@
+Control Flow: For Loops
+
+Data Structure: Sets
+
+
+Data Structure: Tuples
+
+Data Structure: Dictionaries
+
+Commenting
+
+Pseudocode
+
+Casting
+
+Bool
+What is Duck Typing
+
+
+
+
+
+
+Augmented operators (+=, *= etc)
++
+sachin = 45
+Kohli =55+6
+
+a = {
+    "sachin" : 45,
+    "kohli" : 61
+}
+a ["sachin"]
+
