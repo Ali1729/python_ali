@@ -1,0 +1,3 @@
+1. From a given string , print all letters and their counts.
+2. Remove special symbols (!@#$%^&*()_+) from a string an create a new string with them.
+3. Find position of a substring

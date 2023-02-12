@@ -1,6 +1,11 @@
 capital_city = {"Nepal": "Kathmandu", "Italy": "Rome", "England": "London"}
 print(capital_city)
 
+capital_city = {"Nepal": "Kathmandu", "Italy": "Rome", 1: "3"}
+
+a = ["Kathmandu", "Rome",  "London"]
+b = ["Nepal", "Italy", "England"]
+
 
 ################------------------
 # dictionary with keys and values of different data types
