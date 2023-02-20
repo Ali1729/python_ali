@@ -19,6 +19,8 @@ pow_two_iter = iter(pow_two)
 
 print(list(pow_two_iter))
 
+a = str("asdf")
+
 """
 In [7]: x = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 

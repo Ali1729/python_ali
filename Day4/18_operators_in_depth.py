@@ -1,4 +1,4 @@
-+, -, *, /, >>, **, &,
++, -, *, /,  **, %
 
 
 yield x Generator function send protocol
@@ -30,3 +30,15 @@ Division: true and floor
 −x, +x Negation, identity
 ˜x Bitwise NOT (inversion)
 x ** y Power (exponentiation)
+
+
+# Private values
+# public values 
+class A():
+    def __add__:
+        pass
+
+
+a = A()
+b = A()
+a+b
