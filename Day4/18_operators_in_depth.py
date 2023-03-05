@@ -34,11 +34,24 @@ x ** y Power (exponentiation)
 
 # Private values
 # public values 
-class A():
+class Employee():
     def __add__:
         pass
 
+    
 
 a = A()
 b = A()
+
+a+b
+
+# operator overloading 
+a = 'asdf'
+b= 'awer'
+a = str('asdf')
+
+a+b
+a = int(123)
+a = 1
+b = 2
 a+b

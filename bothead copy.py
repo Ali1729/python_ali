@@ -6,14 +6,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "with open('test.txt') as fp:\n",
-    "    pass\n",
-    "\n",
-    "\n",
-    "fp = open('text.txt','a+')\n",
-    "fp2 = open('text.txt',)\n",
-    "fp.write()\n",
-    "fp2.write()"
+    "double underscore vairable\n"
    ]
   }
  ],
