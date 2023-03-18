@@ -1,135 +1,39 @@
 u/DSwithDaniel Beginner:
-
-Downloading Python
-
-Setting up your IDE
-
-Print(“hello world”)
-
-Executing Scripts (Via IDE)
-
-Executing Scripts (Via CLI)
-
-
-Syntax
-
-Variables
-
-Arithmetic
-
-Input
-
-Data Structure: Strings
-
-Data Structure: Lists
-
-Data Structure: Tuples
-
-Data Structure: Dictionaries
-
-Data Structure: Sets
-
-Commenting
-
-Pseudocode
-
-Casting
-
-Bool
-
-Control Flow: Conditions
-
-Control Flow: For Loops
-
-Control Flow: While Loops
-
 Augmented operators (+=, *= etc)
-
-Nesting: For loops
-
 Basic error reading
-
-Functions: With return
-
-Functions: With side effects
-
-Importing Libraries
-
-File Handling /Paths
-
-Reserved words
-
 Documentation + Stack Overflow
 
 Intermediate:
-
-Virtual Environments
-
 Repo setup
-
 PEP8
-
 Linting
-
 CONSTANTS
-
-Using Notebooks
-
 f-strings
-
-Mutability/immutability: Lists vs Tuples vs Strings
-
-Functions: pass
-
-Functions: Args, Kwargs
-
-Lambdas
-
 Try/Except/exception handling
-
-Nested dicts, lists, sets
-
 JSON
-
 Libraries: JSON
-
-Import: From, as
-
 Context managers
-
 Libraries: PILLOW
-
 Namedtuple
-
 Classes + Instance's
 
 Pip
-
 Data Structure: Arrays
-
 Libraries: Pandas
-
 Data Structure: DataFrame
-
 Libraries: Matplotlib
 
 Advanced:
 
 Profilers
-
-Recursion
-
-if name == ‘main’
-
 Truthy and Falsey
 
-Command line arguments with argparse
 
 dataclass
 
 Logging
 
-Iterators
+
 
 Raise Errors + assertions
 
@@ -139,11 +43,9 @@ List comp
 
 Dict/Set comp
 
-*unpacking
-
 Regex
 
-Typehinting
+
 
 Private/Public variables
 
@@ -190,3 +92,92 @@ Hashtable
 C libraries
 
 Using Word as your IDE
+
+----------------------
+Completed:
+Downloading Python
+
+Setting up your IDE
+
+Print(“hello world”)
+
+Executing Scripts (Via IDE)
+
+Executing Scripts (Via CLI)
+
+
+
+Syntax
+
+Variables
+
+Arithmetic
+
+Input
+
+Data Structure: Strings
+
+Data Structure: Lists
+
+Data Structure: Tuples
+
+Data Structure: Dictionaries
+
+Data Structure: Sets
+
+Commenting
+
+
+Pseudocode
+
+Casting
+
+Bool
+
+Control Flow: Conditions
+
+Control Flow: For Loops
+
+Control Flow: While Loops
+
+
+Functions: With return
+
+Functions: With side effects
+
+Importing Libraries
+
+File Handling /Paths
+
+Reserved words
+
+Intermdeiate:
+
+Virtual Environments
+Using Notebooks
+
+
+
+Mutability/immutability: Lists vs Tuples vs Strings
+
+Functions: pass
+
+Functions: Args, Kwargs
+
+Lambdas
+
+
+Nested dicts, lists, sets
+
+Import: From, as
+
+Advanced:
+Recursion
+if name == ‘main’
+Iterators
+*unpacking
+Typehinting == > Annotations.
+
+Command line arguments with argparse
+
+Expert:

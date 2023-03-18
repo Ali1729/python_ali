@@ -1,0 +1,7 @@
+March 10th
+    Dataframes.
+    Receipts program.
+    requirements
+    Virtual Environments
+    Command line arguments with argparse
+

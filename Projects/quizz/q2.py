@@ -20,7 +20,7 @@ for question, alternatives in QUESTIONS.items():
     correct_answer = alternatives[0]
     sorted_alternatives = sorted(alternatives)
     for label, alternative in enumerate(sorted_alternatives):
-        print(f"  {label}) {alternative}")
+        print(f"  {0}) {alternative}")
 
     answer_label = int(input(f"{question}? "))
     answer = sorted_alternatives[answer_label]

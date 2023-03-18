@@ -22,7 +22,7 @@ for question, alternatives in QUESTIONS.items():
 
     print(question)
     # answer = input(f"{question}? ")
-    for alternative in (alternatives):
+    for alternative in sorted(alternatives):
         print(f"  - {alternative}")
     
     answer = input()
