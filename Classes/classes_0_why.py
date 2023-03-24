@@ -29,7 +29,6 @@ horn(truck["wheels"], truck["kind"])
 
 list1= [1,2,3,4]
 
-employee.giving_raise
-employee.verify_timesheet 
+truck.horn
 
-giving_raise()
+horn(truck)

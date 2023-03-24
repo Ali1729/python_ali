@@ -5,3 +5,8 @@ March 10th
     Virtual Environments
     Command line arguments with argparse
 
+
+March 11th:
+
+    Intro to SQLITE
+    OOP

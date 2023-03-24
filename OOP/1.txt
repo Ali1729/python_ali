@@ -1,0 +1,3 @@
+    Procedural programming – specifies the steps a program must take to reach a desired state.
+    Functional programming – treats programs as evaluating mathematical functions and avoids state and mutable data.
+    Object-oriented programming (OOP) – organizes programs as objects: data structures consisting of attributes and methods together with their interactions.

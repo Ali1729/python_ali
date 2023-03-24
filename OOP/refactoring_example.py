@@ -14,6 +14,9 @@ def calculate_surface_area(length, width, height):
     total_area = lateral_area + end_area + area
     return total_area
 
+
+5,10,15
+calculate_surface_area()
 # After refactoring
 class Rectangle:
     def __init__(self, length, width):
@@ -35,3 +38,7 @@ class RectangularPrism(Rectangle):
         lateral_area = 2 * self.area() + 2 * self.height * (self.length + self.width)
         end_area = 2 * self.length * self.width
         return lateral_area + end_area
+    
+    
+a = RectangularPrism(5,10,15)
+a.surface_area
