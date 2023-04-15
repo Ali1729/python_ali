@@ -131,6 +131,7 @@ Libraries: Matplotlib
 
 Django -- Test Data Generation 
 Pyspark -- 
+
 filter(id =1)
 group
 .execute("select * from emp where id = 1")
@@ -142,6 +143,7 @@ csv
 json
 excel
 
+map, reduce, filter 
 
 
 ==========Advanced:=============
@@ -185,6 +187,7 @@ Classes: Inheritance
 
 Classes: Composition
 
+
 Expert:
 
 Closures
@@ -201,7 +204,7 @@ Stacks/Queues/Dequeues
 
 Advanced git
 
-Decorators/nested functions
+Decorators/nested functions : Realpython
 
 Godly:
 
