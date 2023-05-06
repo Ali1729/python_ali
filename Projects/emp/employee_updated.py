@@ -86,6 +86,17 @@ def add_employee():
             1.0, END) == "":
         messagebox.showerror("Erorr in Input", "Please Fill All the Details")
         return
+    
+    try:
+    
+        if int(txtAge.get()) < 0 or int(txtAge.get()) > 120:
+            messagebox.showerror("Erorr in Input", "Age field is not appropriate it should be 0 to 120")
+            return
+    except ValueError as e:
+            messagebox.showerror("Erorr in Input", "Age field must be a integer between 0 and 120")
+            return
+        
+    
     db.insert(txtName.get(),txtAge.get(), txtDoj.get() , txtEmail.get() ,comboGender.get(), txtContact.get(), txtAddress.get(
             1.0, END))
     messagebox.showinfo("Success", "Record Inserted")
