@@ -10,6 +10,7 @@ import os
 
 
 def play_again():
+
   question = 'Do You want to play again? y = yes, n = no \n'
   play_game = input(question)
   while play_game.lower() not in ['y', 'n']:
@@ -56,6 +57,7 @@ def hangman(word):
                     '  |      \n'
                     '  |      \n'
                     '__|__\n')
+            
               print(f'Wrong guess: {limit - count} guesses remaining\n')
 
           elif count == 2:

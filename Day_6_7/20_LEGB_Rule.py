@@ -10,7 +10,7 @@ def outer_func_1():
         # for i in range(1):
         #     var = 200
             
-        def inner_func():
+        def inner_func():``
             var = 10
             # This block is the Local scope of inner_func()
             print(f"Printing var from inner_func(): {var}")
